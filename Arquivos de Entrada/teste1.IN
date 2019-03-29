@@ -1,0 +1,11 @@
+GRAMATICA
+S,A,B
+a,b
+S
+(S,aS,1)
+(S,bS,2)
+(S,aA,3)
+(S,bB,4)
+(A,a,5)
+(B,b,6)
+####

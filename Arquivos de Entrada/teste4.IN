@@ -1,0 +1,13 @@
+GRAMATICA
+P,A
+a,b
+P
+(P,aPa,1)
+(P,bPb,2)
+(P,aAb,3)
+(P,bAa,4)
+(A,aA,5)
+(A,aA,6)
+(A,bA,7)
+(A,@,8)
+####

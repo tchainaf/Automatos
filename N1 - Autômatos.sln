@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N1 - Autômatos", "N1 - Autômatos\N1 - Autômatos.csproj", "{2CC5AA51-EA3F-49E8-9D99-BDC974A4FA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC5AA51-EA3F-49E8-9D99-BDC974A4FA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC5AA51-EA3F-49E8-9D99-BDC974A4FA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC5AA51-EA3F-49E8-9D99-BDC974A4FA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC5AA51-EA3F-49E8-9D99-BDC974A4FA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B55E0FD-5C24-4DB8-9DA0-519EDC02A764}
+	EndGlobalSection
+EndGlobal

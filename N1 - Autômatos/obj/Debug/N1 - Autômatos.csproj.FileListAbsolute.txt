@@ -1,0 +1,139 @@
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe.config
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.pdb
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csprojResolveAssemblyReference.cache
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.g.cs
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\obj\Debug\App.g.cs
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.cache
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.lref
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.baml
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.g.resources
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1___Autômatos.Properties.Resources.resources
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.GenerateResource.cache
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CoreCompileInputs.cache
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.exe
+C:\Users\fe377\Documents\Programas\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.pdb
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe.config
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.pdb
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csprojResolveAssemblyReference.cache
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.g.cs
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\App.g.cs
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.cache
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.lref
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.baml
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.g.resources
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1___Autômatos.Properties.Resources.resources
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.GenerateResource.cache
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CoreCompileInputs.cache
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CopyComplete
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.exe
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.pdb
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.dll
+C:\Users\fe377\Desktop\FTT\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.xml
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe.config
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.pdb
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.dll
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.xml
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csprojResolveAssemblyReference.cache
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.g.cs
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\App.g.cs
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.cache
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.lref
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.baml
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.g.resources
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1___Autômatos.Properties.Resources.resources
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.GenerateResource.cache
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CoreCompileInputs.cache
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CopyComplete
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.exe
+C:\Users\fe377\Desktop\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.pdb
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe.config
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.pdb
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.dll
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.xml
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csprojResolveAssemblyReference.cache
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.g.cs
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\App.g.cs
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.cache
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.lref
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.baml
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.g.resources
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1___Autômatos.Properties.Resources.resources
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.GenerateResource.cache
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CoreCompileInputs.cache
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CopyComplete
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.exe
+C:\Users\fe377\Desktop\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.pdb
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe.config
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.pdb
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.dll
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.xml
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csprojResolveAssemblyReference.cache
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.g.cs
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\App.g.cs
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.cache
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.lref
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.baml
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.g.resources
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1___Autômatos.Properties.Resources.resources
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.GenerateResource.Cache
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CoreCompileInputs.cache
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.exe
+E:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.pdb
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csprojResolveAssemblyReference.cache
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.g.cs
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\App.g.cs
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.cache
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.lref
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.exe
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.pdb
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe.config
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.pdb
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.dll
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.xml
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.baml
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.g.resources
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1___Autômatos.Properties.Resources.resources
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.GenerateResource.cache
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CoreCompileInputs.cache
+D:\FTT\N1 - v2\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CopyComplete
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe.config
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.pdb
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.dll
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.xml
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csprojResolveAssemblyReference.cache
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.g.cs
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\App.g.cs
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.cache
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.lref
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.baml
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.g.resources
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1___Autômatos.Properties.Resources.resources
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.GenerateResource.Cache
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CoreCompileInputs.cache
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.exe
+E:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.pdb
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe.config
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.exe
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\N1 - Autômatos.pdb
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.dll
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\bin\Debug\WpfAnimatedGif.xml
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csprojResolveAssemblyReference.cache
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.g.cs
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\App.g.cs
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.cache
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos_MarkupCompile.lref
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\MainWindow.baml
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.g.resources
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1___Autômatos.Properties.Resources.resources
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.GenerateResource.cache
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CoreCompileInputs.cache
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.csproj.CopyComplete
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.exe
+D:\FTT\N1\N1 - Autômatos\N1 - Autômatos\obj\Debug\N1 - Autômatos.pdb
